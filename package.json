@@ -1,0 +1,21 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.3.0"
+  },
+  "main": "main.js",
+  "author": "David Martinez Rodriguez <ddmmrr2020@icloud.com>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "three": "^0.151.3"
+  }
+}
